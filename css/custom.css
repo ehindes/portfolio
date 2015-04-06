@@ -2,18 +2,49 @@
 
 .header {
 	text-align:center;
-	font-size:150%;
+	color:#990099;
+	font-size:130%;
+	font-family:"Roboto Condensed", sans-serif;
+	letter-spacing:1px;
+	width:200px;
+	padding:5px;
+	border:solid;
+	border-color:black;
+	border-spacing:center;
+	margin-left:auto;
+	margin-right:auto;
 }
 
 .breadcrumb {
 	text-align:center;
 	background-color:white;
-	color:#2953CF;
-	font-size:115%;
+	color:#333366;
+	font-size:110%;
+	font-family:"Roboto Condensed", sans-serif;
+	font-style:bold;
 }
 
-.padding {}
+	a:link {
+		color:black;
+	}
+	a:visited {
+		color:black;
+	}
+	a:hover {
+		color:#990099;
+		text-decoration: none;
+	}
+	a:active {
+		color:black;
+	}
+	
 
-.introduction {
-	text-align:center;
+
+.padding {
+
+}
+
+.thumbnail {
+	border:none;
+	cursor:auto;
 }
