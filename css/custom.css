@@ -1,1 +1,19 @@
 /*custom css*/
+
+.header {
+	text-align:center;
+	font-size:150%;
+}
+
+.breadcrumb {
+	text-align:center;
+	background-color:white;
+	color:#2953CF;
+	font-size:115%;
+}
+
+.padding {}
+
+.introduction {
+	text-align:center;
+}
