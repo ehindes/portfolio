@@ -1,9 +1,10 @@
 /*custom css*/
 
+/* index */
 .header {
 	text-align:center;
 	color:#990099;
-	font-size:130%;
+	font-size:150%;
 	font-family:"Roboto Condensed", sans-serif;
 	letter-spacing:1px;
 	width:200px;
@@ -38,13 +39,63 @@
 		color:black;
 	}
 	
-
-
 .padding {
-
+	padding-top:20px;
 }
 
 .thumbnail {
 	border:none;
 	cursor:auto;
 }
+
+/* index modals */
+.modal-title {
+	text-align:center;
+	color:#990099;
+	font-size:150%;
+	font-family:"Roboto Condensed", sans-serif;
+	letter-spacing:2px;
+	text-transform:uppercase;
+}
+
+.modal-footer {
+	text-align:left;
+	font-family:"Open Sans Condensed", sans-serif;
+	font-size:130%;
+}
+
+.btn {
+	background-color:white;
+	text-align:center;
+	color:#990099;
+	font-family:"Open Sans Condensed", sans-serif;
+	font-size:100%;
+	float:center;
+}
+
+/* about, resume, prints, bookings */
+
+h1 {
+	text-align:center;
+	color:#990099;
+	font-size:140%;
+	font-family:"Roboto Condensed", sans-serif;
+	letter-spacing:2px;
+	text-transform:uppercase;
+}
+
+p {
+	font-family:"Open Sans Condensed", sans-serif;
+	font-size:130%;
+}
+
+.second-header {
+	color:#990099;
+	font-size:140%;
+	font-family:"Roboto Condensed", sans-serif;
+	letter-spacing:2px;
+	text-transform:uppercase;
+}
+
+
+
